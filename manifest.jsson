@@ -1,0 +1,16 @@
+{
+  "name": "Recordatorio de Agua para Emily",
+  "short_name": "AguaApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2d9cdb",
+  "description": "Una aplicación para recordarle a Emily que tome agua.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
